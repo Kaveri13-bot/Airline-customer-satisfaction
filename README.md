@@ -121,19 +121,19 @@ ROC-AUC : 0.99%
 
 ### Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](Results/confusion_matrix.png)
 
 ---
 
 ### ROC & Accuracy score
 
-![ROC Curve](results/ROC_AUC_Accuracy score.png)
+![ROC Curve](Results/ROC_AUC_Accuracy score.png)
 
 ---
 
 ### Classification Report
 
-![Classification Report](results/Classification_Report.png)
+![Classification Report](Results/Classification_Report.png)
 
 ---
 

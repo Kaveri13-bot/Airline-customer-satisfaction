@@ -127,7 +127,7 @@ ROC-AUC : 0.99%
 
 ### ROC & Accuracy score
 
-![ROC Curve](Results/ROC-AUC_Accuracyscore.png)
+![ROC Curve](Results/ROC-AUC_Accuracy_score.png)
 
 ---
 

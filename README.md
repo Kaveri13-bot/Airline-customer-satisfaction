@@ -127,7 +127,7 @@ ROC-AUC : 0.99%
 
 ### ROC & Accuracy score
 
-![ROC Curve](Results/ROC_AUC_Accuracy score.png)
+![ROC Curve](Results/ROC-AUC_Accuracy score.png)
 
 ---
 
@@ -136,10 +136,6 @@ ROC-AUC : 0.99%
 ![Classification Report](Results/Classification_Report.png)
 
 ---
-
-### Model Prediction
-
-![Prediction Output](results/prediction_output.png)
 
 ## 🔮 Future Improvements
 * Hyperparameter Tuning

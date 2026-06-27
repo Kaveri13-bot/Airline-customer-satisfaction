@@ -117,6 +117,30 @@ F1 Score : 94%
 
 ROC-AUC : 0.99%
 
+## 📷 Project Results
+
+### Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix.png)
+
+---
+
+### ROC & Accuracy score
+
+![ROC Curve](results/ROC_AUC_Accuracy score.png)
+
+---
+
+### Classification Report
+
+![Classification Report](results/Classification_Report.png)
+
+---
+
+### Model Prediction
+
+![Prediction Output](results/prediction_output.png)
+
 ## 🔮 Future Improvements
 * Hyperparameter Tuning
 * Model Deployment using Flask or FastAPI
